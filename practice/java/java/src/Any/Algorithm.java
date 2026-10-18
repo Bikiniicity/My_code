@@ -1,8 +1,8 @@
-package ch5;
+package Any;
 
 import java.util.Scanner;
 
-public class sd {
+public class Algorithm {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();
